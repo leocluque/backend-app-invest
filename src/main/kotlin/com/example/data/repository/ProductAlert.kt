@@ -15,6 +15,7 @@ data class ProductAlert(
 
 fun ProductAlert.toProductResponse(): ProductsResponse {
     return ProductsResponse(
+        id = id.toString(),
         productName = productName,
         status = status,
         productValue = productValue

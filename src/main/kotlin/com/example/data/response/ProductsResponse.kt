@@ -1,6 +1,7 @@
 package com.example.data.response
 
 data class ProductsResponse(
+    val id: String,
     val productName: String,
     val status: ProductStatus,
     val productValue: Double
