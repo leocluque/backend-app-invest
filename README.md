@@ -115,17 +115,6 @@ Para emitir um relatorio use
 ./gradlew clean  jacocoFullReport
 ```
 
-![cobertura_de_testes](imagens/cobertura_de_testes.png)
-
-### Previas
-
-![home investimentos](imagens/home_invest.png)
-
-![carteira](imagens/carteira.png)
-
-![stock_alert](imagens/stock_alert.png)
-
-
 ## Conclusão
 
 Este README fornece uma visão geral do projeto de desafio Android, incluindo informações sobre o repositório, a aplicação, a estratégia de implementação e a configuração do backend local. 🚀
